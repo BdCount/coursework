@@ -1,5 +1,6 @@
 /**/
 #include "LTexture.h"
+#include <string>
 
 /**/
 LTexture::LTexture()

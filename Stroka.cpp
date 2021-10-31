@@ -1,7 +1,6 @@
-
-
-
+#include <cstring>
 #include "Stroka.h"
+
 int char_array_fix(char** parray, std::istream& in)
 {
     int er, count, N = 4;

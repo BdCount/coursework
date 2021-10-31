@@ -1,5 +1,4 @@
-
-#include"Ltexture_window.h"
+#include "Ltexture_window.h"
 
 #define LENGTH 15 // кол-во выводимых чисел на экран
 

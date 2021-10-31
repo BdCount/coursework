@@ -3,6 +3,7 @@
 
 #include "Stroka.h"
 #include <iostream>
+#include <cstring>
 #include <math.h>
 
 class Stroka_Dec : public Stroka

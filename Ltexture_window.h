@@ -1,6 +1,5 @@
 #pragma once
 
-
 #include "LTexture.h"
 
 class Ltexture_window : public LTexture {
