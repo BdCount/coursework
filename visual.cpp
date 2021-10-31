@@ -6,12 +6,11 @@
 #include "LTexture.h"
 #include <string>
 #include <regex>
-#include <Windows.h>
 #include "postfix.h"
 #include <SDL_ttf.h>
 #include "stroka_dec.h"
 #include "Ltexture_window.h"
-#include "Ltexture_button .h"
+#include "Ltexture_button.h"
 
 #define M 6
 #define N 4
@@ -49,8 +48,6 @@ void close();
 
 int MAIN(int argc, char* args[])
 {
-	//FreeConsole();
-
 	if (!init()) {
 		std::cout << "Window could not be initialized! \n";
 	}

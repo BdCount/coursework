@@ -1,4 +1,3 @@
-
 #ifndef STROKA_DEC_CPP
 #define STROKA_DEC_CPP
 #include "stroka_dec.h"
